@@ -1,4 +1,4 @@
-# micromobility-metrics-specification
+# Micromobility Metrics Specification
 
 ## 🚨pre-alpha: this specification is not yet stable
 
