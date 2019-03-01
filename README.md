@@ -27,3 +27,7 @@ The Micromobility Metrics Specification is a collaborative standard. To propose 
 ## Implementations
 
 - [SharedStreets Micromobility Connector](https://github.com/sharedstreets/sharedstreets-micromobility-connector)
+
+## Compliance
+
+Each version of the Micromobility Metrics Specification will include a test suite with an implementation of an HTTP service following the [City of Los Angeles' Mobility Data Specification (MDS) Provider API](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/dev/provider). Implememtations of the Micromobility Metrics Specification should run this test suite to ensure standards compliance and reporting accuracy.
