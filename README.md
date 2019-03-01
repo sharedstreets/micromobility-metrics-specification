@@ -23,3 +23,7 @@ Contributions must comply with the project's [Code of Conduct](CODE_OF_CONDUCT.m
 ## Contributing
 
 The Micromobility Metrics Specification is a collaborative standard. To propose changes, ask questions, or flag issues, please follow the [Contributing](./CONTRIBUTING.md) documentation.
+
+## Implementations
+
+- [SharedStreets Micromobility Connector](https://github.com/sharedstreets/sharedstreets-micromobility-connector)
