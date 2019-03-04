@@ -2,7 +2,7 @@
 
 ## 🚨pre-alpha: this specification is not yet stable
 
-An open standard for calculating and communicating micromobility provider measurements.
+An open standard for creating and communicating micromobility metrics that are privacy-protecting & statistically accurate.
 
 ## License
 
