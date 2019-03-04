@@ -10,7 +10,7 @@ The Micromobility Metrics Specification is shared under the [MIT License](./LICE
 
 ## Versions
 
-Versions are deliniated using [semver](https://semver.org/) (semantic versioning), with the format `MAJOR.MINOR.PATCH`. Each version of the Micromobility Metrics Specification will target a specific version of the [City of Los Angeles' Mobility Data Specification (MDS) Provider API](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master/provider#versioning).
+Versions are delineated using [semver](https://semver.org/) (semantic versioning), with the format `MAJOR.MINOR.PATCH`. Each version of the Micromobility Metrics Specification will target a specific version of the [City of Los Angeles' Mobility Data Specification (MDS) Provider API](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master/provider#versioning).
 
 ## Changelog
 
