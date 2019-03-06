@@ -118,7 +118,7 @@ N/A
 
 This metric is aggregated from the `/status_changes` MDS Provider source.
 
-### 5.1.6
+### 5.2.6
 
 ```json
 {
@@ -155,7 +155,7 @@ N/A
 
 This metric is aggregated from the `/status_changes` MDS Provider source.
 
-### 5.1.6
+### 5.3.6
 
 ```json
 {
@@ -192,7 +192,7 @@ The minimum filter MUST be greater or equal to 2.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
-### 5.1.6
+### 5.4.6
 
 ```json
 {
@@ -228,7 +228,7 @@ The minimum filter MUST be greater or equal to 2.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
-### 5.1.6
+### 5.5.6
 
 ```json
 {
@@ -265,7 +265,7 @@ The minimum filter MUST be greater or equal to 5.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
-### 5.1.6
+### 5.6.6
 
 ```json
 {
@@ -303,7 +303,7 @@ The minimum filter MUST be greater or equal to 5.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
-### 5.1.6
+### 5.7.6
 
 ```json
 {
