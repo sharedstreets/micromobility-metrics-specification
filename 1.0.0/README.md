@@ -81,6 +81,19 @@ The minimum filter MUST be greater or equal to 2.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
+### 5.1.6
+
+```json
+{
+  "metric": "vehicles",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space": "123",
+  "time": "2019-02-17-160",
+  "value": 1000
+}
+```
+
 
 
 ## 5.2 Utilization
@@ -104,6 +117,19 @@ N/A
 ### 5.2.5 Source
 
 This metric is aggregated from the `/status_changes` MDS Provider source.
+
+### 5.1.6
+
+```json
+{
+  "metric": "utilization",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space": "123",
+  "time": "2019-02-17-160",
+  "value": 0.5
+}
+```
 
 
 
@@ -129,6 +155,19 @@ N/A
 
 This metric is aggregated from the `/status_changes` MDS Provider source.
 
+### 5.1.6
+
+```json
+{
+  "metric": "availability",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space": "123",
+  "time": "2019-02-17-160",
+  "value": 0.5
+}
+```
+
 
 
 ## 5.4 Pickups
@@ -153,6 +192,18 @@ The minimum filter MUST be greater or equal to 2.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
+### 5.1.6
+
+```json
+{
+  "metric": "pickups",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space": "123",
+  "time": "2019-02-17-160",
+  "value": 100
+}
+```
 
 
 ## 5.5 Dropoffs
@@ -176,6 +227,19 @@ The minimum filter MUST be greater or equal to 2.
 ### 5.5.5 Source
 
 This metric is aggregated from the `/trips` MDS Provider source.
+
+### 5.1.6
+
+```json
+{
+  "metric": "dropoffs",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space": "123",
+  "time": "2019-02-17-160",
+  "value": 100
+}
+```
 
 
 
@@ -201,6 +265,20 @@ The minimum filter MUST be greater or equal to 5.
 
 This metric is aggregated from the `/trips` MDS Provider source.
 
+### 5.1.6
+
+```json
+{
+  "metric": "pickupsvia",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space1": "123",
+  "space2": "321",
+  "time": "2019-02-17-160",
+  "value": 20
+}
+```
+
 
 
 ## 5.7 Dropoffs Via
@@ -224,3 +302,17 @@ The minimum filter MUST be greater or equal to 5.
 ### 5.7.5 Source
 
 This metric is aggregated from the `/trips` MDS Provider source.
+
+### 5.1.6
+
+```json
+{
+  "metric": "dropoffsvia",
+  "spatial": "H3",
+  "temporal": "1H",
+  "space1": "123",
+  "space2": "321",
+  "time": "2019-02-17-160",
+  "value": 20
+}
+```
