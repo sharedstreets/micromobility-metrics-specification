@@ -243,11 +243,11 @@ This metric is aggregated from the `/trips` MDS Provider source.
 
 
 
-## 5.6 Pickups Via
+## 5.6 Pickups Matrix
 
 ### 5.6.1 Description
 
-Count of unique trips starting in each zone that ended within the target zone.
+Count of unique trips starting in each zone that ended within the zone.
 
 ### 5.6.2 Spatial
 
@@ -269,7 +269,7 @@ This metric is aggregated from the `/trips` MDS Provider source.
 
 ```json
 {
-  "metric": "pickupsvia",
+  "metric": "pickupsmatrix",
   "spatial": "H3",
   "temporal": "1H",
   "space1": "123",
@@ -281,11 +281,11 @@ This metric is aggregated from the `/trips` MDS Provider source.
 
 
 
-## 5.7 Dropoffs Via
+## 5.7 Dropoffs Matrix
 
 ### 5.7.1 Description
 
-Count of unique trips ending in each zone that ended within the target zone.
+Count of unique trips ending in each zone that ended within the zone.
 
 ### 5.7.2 Spatial
 
@@ -307,7 +307,7 @@ This metric is aggregated from the `/trips` MDS Provider source.
 
 ```json
 {
-  "metric": "dropoffsvia",
+  "metric": "dropoffsmatrix",
   "spatial": "H3",
   "temporal": "1H",
   "space1": "123",
